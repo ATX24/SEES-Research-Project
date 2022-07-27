@@ -3,3 +3,4 @@ All the code for the following research project: A Comparative Analysis of Diffe
 Includes:
 - Notebook for filtering GLOBE data
 - Notebook with Keras CNN models
+- Folder with image dataset
